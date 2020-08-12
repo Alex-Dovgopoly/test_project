@@ -1,1 +1,1 @@
-new project version1
+new project version2 custpom
